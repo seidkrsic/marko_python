@@ -11,3 +11,4 @@ lista.sort()
 print(lista)
 lista=lista*2
 print(lista)
+lista[3]=25
